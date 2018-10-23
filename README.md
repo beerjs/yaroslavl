@@ -6,7 +6,6 @@
 
 ## Общение онлайн
 - Канал в Telegram: [beerjs_yaroslavl](http://t.me/beerjs_yaroslavl) (подписывайтесь, чтобы быть в курсе событий)
-- Чатик в Telegram: beerjs_yaroslavl
 
 ## Примечание о пиве :beers:
 
