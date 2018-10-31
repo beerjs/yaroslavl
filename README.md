@@ -16,7 +16,3 @@
 Версия | Место  | Дата
 -|-|-
 1 | [Паб "Крапива"](https://github.com/beerjs/yaroslavl/issues/2) | 3 November 2018
-
-## Организаторы
-
-* Александр Малинов ([GitHub](https://github.com/xmalinov), [Twitter](https://twitter.com/xmalinov))
