@@ -1,6 +1,6 @@
 # BeerJS Yaroslavl
 
-[![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerjs_yaroslavl)
+[![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/joinchat/DXKBt1AhrlBHm1V-0ecOzg)
 
 <img src="https://github.com/beerjs/recife/blob/master/docs/img/icon-beerjs.png" align="right" hspace="10" vspace="6" width="12%">
 
