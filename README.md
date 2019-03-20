@@ -19,3 +19,4 @@
 1-alpha | [Паб "Крапива"](https://github.com/beerjs/yaroslavl/issues/2) | 3 Ноября 2018
 2-beta | [Паб "Крапива"](https://github.com/beerjs/yaroslavl/issues/3) | 29 Ноября 2018
 v0.4 | [Паб "Hopmalt"](https://github.com/beerjs/yaroslavl/issues/4) | 21 Февраля 2019
+v0.5 | [Паб "Hopmalt"](https://github.com/beerjs/yaroslavl/issues/4) | 28 Февраля 2019
