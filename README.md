@@ -21,4 +21,4 @@
 v0.4 | [Паб "Hopmalt"](https://github.com/beerjs/yaroslavl/issues/4) | 21 Февраля 2019
 v0.5 | [Паб "Hopmalt"](https://github.com/beerjs/yaroslavl/issues/5) | 28 Марта 2019
 v0.6 | [Бельгийское кафе "Брюгге"](https://github.com/beerjs/yaroslavl/issues/6) | 18 Апреля 2019
-v0.7 | [Паб "Крапива"](https://github.com/beerjs/yaroslavl/issues/3) | 28 Ноября 2019
+v0.7 | [Паб "Крапива"](https://github.com/beerjs/yaroslavl/issues/7) | 28 Ноября 2019
